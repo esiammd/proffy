@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Projeto da NLW - Next Leel Week 2.0
+  Projeto Desenvolvido na Next Leel Week 2.0
 </h4>
 
 <p align="center">
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Proffy é uma plaforma de estudos online que visa conectar professores a alunos.
 
 O Professor cadastra uma disciplina na plataforma Web e os alunos podem buscar professores
-disponíveis tanto na plataforma Web, como no aplicativo Mobile.
+disponíveis tanto na plataforma Web como no aplicativo Mobile.
 
 O projeto foi desenvolvido durante a Next Level Week 2.0 oferecida pela Rocketseat.
 
