@@ -9,7 +9,7 @@ const db = knex({
   useNullAsDefault: true,
   pool: {
     afterCreate: (conn: any, cb: any) => {
-      conn.run("PRAGMA foreign_keys = ON", cb); //habilita las foreign key en sqlite3
+      conn.run("PRAGMA foreign_keys = ON", cb); //habilita as foreign key no sqlite3
     },
   },
 });
